@@ -43,7 +43,7 @@ setInterval(function() {
         case 'fin':
             _DLG('exit', 2);
             break;
-        case 'init':
+        case 'def':
             if (bomb) bomb = false;
             if (pol) pol = false;
             count = parseInt($('#gxt_135').find('.count').text()) || 0;
