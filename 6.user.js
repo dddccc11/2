@@ -37,7 +37,7 @@ setInterval(function() {
         case 'fin':
             _DLG('exit', 2);
             break;
-        case 'init':
+        case 'def':
             if (bomb) bomb = false;
             break;
     }
