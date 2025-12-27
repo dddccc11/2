@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name автовход с бомбами и полями
+// @name автовход с бомбами и полями экстры+победы
 // @namespace https://www.bestmafia.com/
 // @version 1.0
 // @description
